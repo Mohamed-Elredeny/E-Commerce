@@ -1,0 +1,24 @@
+body{
+    background: url(../1.jpg);
+    -webkit-background-size:cover;
+    background-size:cover;
+    background-position:center center;
+    height: 100vh;
+    font-family: courgette;
+    
+}
+
+.wrapper{
+    width: 800px% ;
+    margin: 0 auto ;
+        
+}
+nav{
+    
+    background-color: #262626;
+    display:-webkit-flex;
+    display:-moz-flex;
+    display:-ms-flex;
+    display:-o-flex;
+    display:flex;
+}
